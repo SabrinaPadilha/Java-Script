@@ -1,1 +1,1 @@
-# Java-Script
+ const botoes =  document.querySelectorAll(".botao");
